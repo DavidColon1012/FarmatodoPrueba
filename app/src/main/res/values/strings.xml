@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FarmatodoPrueba</string>
+    <string name="titulo_marvel">Marvel</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="ecuacion">Ecuación</string>
+    <string name="farma_todo">Farma todo</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="marvel">Marvel</string>
+    <string name="action_search">Buscar</string>
+    <string name="espere">Espere un momento por favor…</string>
+    <string name="de_acuerdo">de_acuerdo</string>
+</resources>
